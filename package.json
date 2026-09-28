@@ -1,0 +1,21 @@
+{
+  "name": "dgsw-quote-rest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "대소고 11기 명언 REST API (Cloudflare Workers)",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20260928.1",
+    "typescript": "^5.6.2",
+    "wrangler": "^4.142.0"
+  },
+  "allowScripts": {
+    "sharp@0.33.5": true,
+    "esbuild@0.28.1": true,
+    "workerd@1.20260926.1": true
+  }
+}

@@ -1,0 +1,5 @@
+name = "dgsw-quote-rest"
+main = "src/index.ts"
+compatibility_date = "2026-09-26"
+
+# DB(D1/KV)를 쓰지 않으므로 바인딩 설정은 없습니다.
