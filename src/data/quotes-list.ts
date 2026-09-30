@@ -12,6 +12,8 @@ export const QUOTES: Quote[] = [
     {name: "조준호", comment: "하성이 너무 멋지다 진짜루~"},
     {name: "조준호", comment: "⭐이하랑⭐️그는감히전설이라고도할수있다(a.k.a 이감전)"},
     {name: "조준호", comment: "니것들이(니가) 드디어 미쳤구나"},
+    {name: "조준호", comment: "꼴깝을 떨어요 진짜;;"},
+    {name: "조준호", comment: "이긱"},
     {name: "권아인", comment: "뭐래"},
     {name: "권아인", comment: "물어버린다?"},
     {name: "권아인", comment: "엣췌"},
